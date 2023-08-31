@@ -1,5 +1,4 @@
 # dukevest
-Certainly, here's a write-up you could use to describe your investment website project on your GitHub page:
 
 ---
 # Investment Website
